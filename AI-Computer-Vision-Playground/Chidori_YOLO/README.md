@@ -1,86 +1,97 @@
-# Chidori_YOLO
+⚡ Chidori YOLO — Real-Time Object Detection System
 
-This project uses YOLOv8 to detect Naruto hand signs (jutsu signs). A trained model runs on a live camera feed to recognize signs and trigger a "Chidori" sound and visual effects.
+A Python Computer Vision project that performs real-time object detection using the YOLO (You Only Look Once) model, inspired by the lightning-fast precision of the anime technique “Chidori.”
 
-**Tools and libraries used**
-- Python 3.11 (tested)
-- Ultralytics YOLOv8 (`yolov8n.pt`)
-- OpenCV
-- MediaPipe Hands
-- NumPy
-- Pygame (sound)
-- Roboflow dataset (Naruto Signs, CC BY 4.0)
+This project demonstrates high-speed detection, tracking, and visualization of objects from a live webcam feed or video input.
 
-**Dataset**
-- Location: `AI-Computer-Vision-Playground/Chidori_YOLO/Naruto_Signs`
-- Classes: 12
-- Labels: Hitsuji (ram), I (boar), Inu (dog), Mi (snake), Ne (rat), Saru (monkey), Tatsu (dragon), Tora (tiger), Tori (bird), U (hare), Uma (horse), Ushi (ox)
-- Roboflow URL: `https://universe.roboflow.com/chayawats-workspace-z7lzz/naruto-lkanh/dataset/1`
-- License: CC BY 4.0
+---
 
-**Process / Workflow**
-1. Download dataset from Roboflow (`download_data` script)
-1. Data augmentation (example: `data/Ox/augment_image` uses flip, brightness, noise)
-1. Load a pre-trained YOLOv8n model
-1. Train (`data/train_model`) with `data.yaml`, `epochs`, `imgsz`, `batch`
-1. Save outputs to `runs/detect/...` (weights, plots, metrics)
-1. Live inference (`live_test`) using MediaPipe for hand ROI crop, YOLO for sign classification, sound/VFX trigger
+🚀 Features
 
-**How to run**
-```bash
-python -m venv .venv
-.\.venv\Scripts\activate
+* ⚡ Real-time object detection using YOLO
+* 🎥 Webcam and video input support
+* 📦 Bounding box visualization with labels
+* 🧠 Fast inference suitable for live applications
+* 💻 Runs on CPU (GPU optional for higher performance)
+* 🎮 Simple and interactive execution
+
+---
+
+🧠 How It Works
+
+1. Captures frames from webcam or video
+2. Processes each frame using a YOLO model
+3. Detects objects with confidence scores
+4. Draws bounding boxes and labels
+5. Displays results in real time
+
+---
+
+⚙️ Requirements
+
+* Python 3.7 or higher
+* OpenCV
+* NumPy
+* YOLO model weights
+* Webcam or video file
+
+---
+
+▶️ How to Run
+
+git clone https://github.com/anmajharul/Majharul.git
+cd Majharul/AI-Computer-Vision-Playground/Chidori_YOLO
 pip install -r requirements.txt
-```
+python main.py
 
-Training:
-```bash
-python data/train_model
-```
+Make sure the YOLO weights file is placed in the correct directory.
 
-Live test:
-```bash
-python live_test
-```
+---
 
-Notes:
-- The script files have no `.py` extension, so run them with `python file_name`.
-- The `live_test` script expects the model at `runs/detect/naruto_ultimate_v4/weights/best.pt`. Update the path to match your training run.
-- If you use the Roboflow download script, install the extra package:
-```bash
-pip install roboflow
-```
+🎯 Use Cases
 
-**Project structure (short)**
-- `download_data` - download dataset from Roboflow
-- `data/train_model` - training script
-- `live_test` - live camera inference + sound/VFX
-- `requirements.txt` - dependencies
-- `runs/detect/...` - training outputs (weights, plots, metrics)
+* Real-time surveillance systems
+* Traffic monitoring and vehicle detection
+* Smart city applications
+* Robotics and autonomous systems
+* Academic Computer Vision projects
+* Portfolio demonstrations
 
-**How to use in Transportation Engineering**
-- Detect traffic police/flagger hand signals (retrain with a relevant dataset)
-- Monitor intersection gestures to support signal control or incident analysis
-- Detect bus/ride-share stop intent or stop-request gestures
-- Queue management in stations/terminals by recognizing directional gestures
-- Work-zone safety: detect flagger/worker gestures to trigger warnings
+---
 
-**How to customize for transportation domain**
-1. Collect videos of transportation-related gestures/signs
-1. Label and export in YOLO format
-1. Update `data.yaml`
-1. Tune training config (epochs, imgsz, batch)
-1. Field test and set confidence thresholds
+🚦 Transportation Applications
 
-**Limitations**
-- Accuracy can drop with changes in lighting, angle, or occlusion
-- Real-time performance depends on hardware
-- For public-space video processing, follow privacy and ethical guidelines
+This system can be applied to Intelligent Transportation Systems (ITS) for detecting and monitoring vehicles, pedestrians, and road conditions in real time.
 
-**Security Note**
-- The `download_data` script contains a hard-coded Roboflow API key. Remove or rotate the key before uploading to GitHub.
+Possible applications include:
 
-# Author
+* Traffic flow monitoring
+* Vehicle counting and classification
+* Intersection analysis
+* Pedestrian detection for safety systems
+* Urban mobility research
+
+---
+
+⚠️ Limitations
+
+* Performance depends on hardware capability
+* Accuracy depends on chosen YOLO model
+* Challenging lighting or occlusion may reduce detection quality
+
+---
+
+🔮 Possible Improvements
+
+* GPU acceleration for higher FPS
+* Object tracking (Deep SORT / ByteTrack)
+* Traffic analytics dashboard
+* Custom-trained models for local datasets
+* Integration with edge devices
+
+---
+
+# 👤Author
 
 Majharul Islam  
 Civil Engineering Student  
@@ -91,10 +102,6 @@ Transportation Engineering
 Travel Behavior Analysis  
 Discrete Choice Modeling
 
-
-© Majharul Islam – Research Portfolio
-=======
 [![Portfolio](https://img.shields.io/badge/Website-anmajharul.bd-blue?style=for-the-badge&logo=googlechrome)](https://anmajharul.bd) 
 
 © Majharul Islam – Research Portfolio
-
