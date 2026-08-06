@@ -1,0 +1,2 @@
+,analysis,row_variable,col_variable,n_total,chi2_statistic,degrees_of_freedom,p_value,cramers_v,effect_size_label,cells_total,cells_below_5,pct_cells_below_5,assumption_met,test_used,decision
+0,"Table 4.10: Fare Increase Response by Primary Mode (n, row %)",Primary Mode x Fare Increase Response (Row),Primary Mode x Fare Increase Response (Col),319,121.617,3,0.0,0.6107,large,8,0,0.0,True,Pearson Chi-square (assumptions satisfied),Reject H₀ (p = 0.0000 < α = 0.05). There is sufficient evidence to conclude a statistically significant association between the two variables.

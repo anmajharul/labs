@@ -1,0 +1,2 @@
+,analysis,row_variable,col_variable,n_total,chi2_statistic,degrees_of_freedom,p_value,cramers_v,effect_size_label,cells_total,cells_below_5,pct_cells_below_5,assumption_met,test_used,decision
+0,"Table 4.8: Willingness to Switch by Reliability Level (n, row %)",Reliability x Switch Intent (Row),Reliability x Switch Intent (Col),319,56.3904,2,0.0,0.4135,large,6,0,0.0,True,Pearson Chi-square (assumptions satisfied),Reject H₀ (p = 0.0000 < α = 0.05). There is sufficient evidence to conclude a statistically significant association between the two variables.

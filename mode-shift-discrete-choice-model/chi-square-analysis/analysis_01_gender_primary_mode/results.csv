@@ -1,0 +1,2 @@
+,analysis,row_variable,col_variable,n_total,chi2_statistic,degrees_of_freedom,p_value,cramers_v,effect_size_label,cells_total,cells_below_5,pct_cells_below_5,assumption_met,test_used,decision
+0,"Table 4.2: Primary Travel Mode by Gender (n, row %)",Gender x Primary Mode (Row),Gender x Primary Mode (Col),319,1.9128,3,0.590694,0.0,negligible,8,0,0.0,True,Pearson Chi-square (assumptions satisfied),Fail to reject H₀ (p = 0.5907 ≥ α = 0.05). There is insufficient evidence of a statistically significant association between the two variables.

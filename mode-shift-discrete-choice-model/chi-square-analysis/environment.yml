@@ -1,0 +1,14 @@
+name: mode_shift_bubt
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - pip:
+    - python-docx
+    - openpyxl

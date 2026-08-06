@@ -1,0 +1,5 @@
+,Reliability x Switch Intent (Row),Yes,No,Row Total
+0,Poor (1-2),79 (95.2%),4 (4.8%),83
+1,Moderate (3),59 (93.7%),4 (6.3%),63
+2,Good (4-5),100 (57.8%),73 (42.2%),173
+3,Column Total,238,81,319
