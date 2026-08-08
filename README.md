@@ -1,4 +1,6 @@
-# Majharul Islam (anmajharul) — Transportation Engineer & Data Researcher
+# Majharul Islam | Transportation Engineer & Researcher 🚀
+
+Welcome! I am a **Civil Engineer** specializing in **Transportation Engineering** at the **Bangladesh University of Business and Technology (BUBT)**. My work bridges the gap between traditional infrastructure and data-driven smart mobility solutions.
 
 <div align="center">
 
@@ -12,16 +14,20 @@
 <br/><br/>
 
 <!-- PHASE 4: Social Badges -->
-<a href="https://www.linkedin.com/in/anmajharul/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
 <a href="https://anmajharul.bd">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Website-anmajharul.bd-blue?style=for-the-badge&logo=googlechrome" alt="Website" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.researchgate.net/profile/Majharul-Islam-12">
-  <img src="https://img.shields.io/badge/ResearchGate-0A101F?style=for-the-badge&logo=researchgate&logoColor=00CCBB&labelColor=0A101F" alt="ResearchGate" />
+  <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate" alt="ResearchGate" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/anmajharul">
+  <img src="https://img.shields.io/badge/LinkedIn-anmajharul-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/anmajharul">
+  <img src="https://img.shields.io/badge/X-anmajharul-black?style=for-the-badge&logo=x" alt="X" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:anmajharul.bd@gmail.com">
@@ -49,12 +55,48 @@
 
 ---
 
-### 🧬 Academic & Research Summary
-
-- **Role**: Civil Engineering Student & Transportation Researcher at **Bangladesh University of Business and Technology (BUBT)**
-- **B.Sc. Thesis**: *"Mode Shift Behavior Using Discrete Choice Models: A Case Study of BUBT Students in Dhaka"*
-- **Research Stack**: PTV Vissim, SUMO, Discrete Choice Modeling (MNL/NL), Python, R, SPSS, C++
-- **Target**: Fully funded M.Sc. Intake 2027 in Transportation / Smart Mobility
+### 🧬 Research Focus
+Currently, I am working on my B.Sc. thesis:  
+**"Mode Shift Behavior Using Discrete Choice Models: A Case Study of BUBT Students in Dhaka"**.  
+My research utilizes mathematical modeling to analyze trade-offs in urban transit and optimize sustainable mobility. I am actively preparing for a **fully funded M.Sc. program** for the **2027 intake**.
 
 ---
-*© 2026 Majharul Islam — All Rights Reserved.*
+
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Traffic Simulation** | PTV Vissim, SUMO |
+| **Programming** | Python, C++, MATLAB, R Language |
+| **Data Science** | SPSS, Pandas, NumPy, Matplotlib, Scikit-learn |
+| **AI & RL** | Reinforcement Learning (PPO & Q-Learning) |
+| **Engineering Design** | AutoCAD Civil 3D |
+
+---
+
+### 📂 About This Repository
+This repository (`labs`) serves as a central hub for my research codes and documentation:
+- **Scripts/**: Python and R scripts for discrete choice modeling and data processing.
+- **Simulations/**: Vissim and SUMO configuration files for traffic flow optimization.
+- **Papers/**: Pre-prints and summaries of my academic contributions.
+
+---
+
+*"Academic precision meets engineering excellence."* — **[anmajharul.bd](https://anmajharul.bd)**
+
+---
+
+### 👤 Author Information
+
+**Majharul Islam**  
+Civil Engineering Student  
+Bangladesh University of Business and Technology (BUBT)  
+
+**Research Focus:**
+- Transportation Engineering  
+- Travel Behavior Analysis  
+- Discrete Choice Modeling  
+
+<br/>
+
+© Majharul Islam – Research Portfolio
