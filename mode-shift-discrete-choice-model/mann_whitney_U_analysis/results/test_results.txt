@@ -1,0 +1,63 @@
+======================================================================
+AUTOMATED TEST RESULTS
+======================================================================
+
+Total: 55 tests | Passed: 55 | Failed: 0
+
+  ✓ PASS  [Safety: Harassment/Security] R1 + R2 = N(N+1)/2
+  ✓ PASS  [Safety: Harassment/Security] U1 + U2 = n1 × n2
+  ✓ PASS  [Safety: Harassment/Security] N = n1 + n2
+  ✓ PASS  [Safety: Harassment/Security] Tie counts sum to N
+  ✓ PASS  [Safety: Harassment/Security] 0 ≤ p ≤ 1
+  ✓ PASS  [Safety: Harassment/Security] σ_U > 0
+  ✓ PASS  [Safety: Harassment/Security] -1 ≤ effect size r ≤ 1
+  ✓ PASS  [Safety: Harassment/Security] Manual p_CC ≈ SciPy p_CC
+  ✓ PASS  [Safety: Harassment/Security] Manual U1 ≈ SciPy U1
+  ✓ PASS  [Reliability] R1 + R2 = N(N+1)/2
+  ✓ PASS  [Reliability] U1 + U2 = n1 × n2
+  ✓ PASS  [Reliability] N = n1 + n2
+  ✓ PASS  [Reliability] Tie counts sum to N
+  ✓ PASS  [Reliability] 0 ≤ p ≤ 1
+  ✓ PASS  [Reliability] σ_U > 0
+  ✓ PASS  [Reliability] -1 ≤ effect size r ≤ 1
+  ✓ PASS  [Reliability] Manual p_CC ≈ SciPy p_CC
+  ✓ PASS  [Reliability] Manual U1 ≈ SciPy U1
+  ✓ PASS  [Safety: Road Accidents] R1 + R2 = N(N+1)/2
+  ✓ PASS  [Safety: Road Accidents] U1 + U2 = n1 × n2
+  ✓ PASS  [Safety: Road Accidents] N = n1 + n2
+  ✓ PASS  [Safety: Road Accidents] Tie counts sum to N
+  ✓ PASS  [Safety: Road Accidents] 0 ≤ p ≤ 1
+  ✓ PASS  [Safety: Road Accidents] σ_U > 0
+  ✓ PASS  [Safety: Road Accidents] -1 ≤ effect size r ≤ 1
+  ✓ PASS  [Safety: Road Accidents] Manual p_CC ≈ SciPy p_CC
+  ✓ PASS  [Safety: Road Accidents] Manual U1 ≈ SciPy U1
+  ✓ PASS  [Comfort] R1 + R2 = N(N+1)/2
+  ✓ PASS  [Comfort] U1 + U2 = n1 × n2
+  ✓ PASS  [Comfort] N = n1 + n2
+  ✓ PASS  [Comfort] Tie counts sum to N
+  ✓ PASS  [Comfort] 0 ≤ p ≤ 1
+  ✓ PASS  [Comfort] σ_U > 0
+  ✓ PASS  [Comfort] -1 ≤ effect size r ≤ 1
+  ✓ PASS  [Comfort] Manual p_CC ≈ SciPy p_CC
+  ✓ PASS  [Comfort] Manual U1 ≈ SciPy U1
+  ✓ PASS  [Crowding] R1 + R2 = N(N+1)/2
+  ✓ PASS  [Crowding] U1 + U2 = n1 × n2
+  ✓ PASS  [Crowding] N = n1 + n2
+  ✓ PASS  [Crowding] Tie counts sum to N
+  ✓ PASS  [Crowding] 0 ≤ p ≤ 1
+  ✓ PASS  [Crowding] σ_U > 0
+  ✓ PASS  [Crowding] -1 ≤ effect size r ≤ 1
+  ✓ PASS  [Crowding] Manual p_CC ≈ SciPy p_CC
+  ✓ PASS  [Crowding] Manual U1 ≈ SciPy U1
+  ✓ PASS  [Safety: Harassment/Security] Bonferroni p ≥ raw p
+  ✓ PASS  [Safety: Harassment/Security] Holm p ≥ raw p
+  ✓ PASS  [Reliability] Bonferroni p ≥ raw p
+  ✓ PASS  [Reliability] Holm p ≥ raw p
+  ✓ PASS  [Safety: Road Accidents] Bonferroni p ≥ raw p
+  ✓ PASS  [Safety: Road Accidents] Holm p ≥ raw p
+  ✓ PASS  [Comfort] Bonferroni p ≥ raw p
+  ✓ PASS  [Comfort] Holm p ≥ raw p
+  ✓ PASS  [Crowding] Bonferroni p ≥ raw p
+  ✓ PASS  [Crowding] Holm p ≥ raw p
+
+ALL TESTS PASSED ✓

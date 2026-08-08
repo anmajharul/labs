@@ -1,0 +1,31 @@
+Variable,Likert_Value,Count_t,t_cubed_minus_t
+Safety: Harassment/Security,1,26,17550
+Safety: Harassment/Security,2,46,97290
+Safety: Harassment/Security,3,92,778596
+Safety: Harassment/Security,4,80,511920
+Safety: Harassment/Security,5,75,421800
+Safety: Harassment/Security,TOTAL,319,1827156
+Reliability,1,33,35904
+Reliability,2,50,124950
+Reliability,3,63,249984
+Reliability,4,85,614040
+Reliability,5,88,681384
+Reliability,TOTAL,319,1706262
+Safety: Road Accidents,1,34,39270
+Safety: Road Accidents,2,80,511920
+Safety: Road Accidents,3,83,571704
+Safety: Road Accidents,4,44,85140
+Safety: Road Accidents,5,78,474474
+Safety: Road Accidents,TOTAL,319,1682508
+Comfort,1,36,46620
+Comfort,2,54,157410
+Comfort,3,104,1124760
+Comfort,4,88,681384
+Comfort,5,37,50616
+Comfort,TOTAL,319,2060790
+Crowding,1,93,804264
+Crowding,2,46,97290
+Crowding,3,48,110544
+Crowding,4,62,238266
+Crowding,5,70,342930
+Crowding,TOTAL,319,1593294

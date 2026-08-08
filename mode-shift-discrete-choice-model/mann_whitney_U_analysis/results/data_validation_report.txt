@@ -1,0 +1,76 @@
+======================================================================
+DATA VALIDATION REPORT
+======================================================================
+Total observations: 319
+Duplicate rows: 0
+Missing Gender: 0
+Invalid Gender codes: 0
+N Male: 214
+N Female: 105
+Total valid Gender: 319
+Gender distribution: {'Male': 214, 'Female': 105}
+
+--- Safety: Harassment/Security ---
+  Column: How safe do you feel regarding harassment, pickpocketing, or personal security?
+  N: 319
+  Missing: 0
+  Valid N: 319
+  Min: 1.0
+  Max: 5.0
+  Mean: 3.4138
+  Median: 3.0
+  SD: 1.2227
+  Values outside 1–5: 0
+  Freq: 1=26, 2=46, 3=92, 4=80, 5=75  (sum=319)
+
+--- Reliability ---
+  Column: How reliable is your current mode? (Does it arrive on time?)
+  N: 319
+  Missing: 0
+  Valid N: 319
+  Min: 1.0
+  Max: 5.0
+  Mean: 3.4545
+  Median: 4.0
+  SD: 1.3188
+  Values outside 1–5: 0
+  Freq: 1=33, 2=50, 3=63, 4=85, 5=88  (sum=319)
+
+--- Safety: Road Accidents ---
+  Column: How safe do you feel regarding road accidents on this mode?
+  N: 319
+  Missing: 0
+  Valid N: 319
+  Min: 1.0
+  Max: 5.0
+  Mean: 3.163
+  Median: 3.0
+  SD: 1.3312
+  Values outside 1–5: 0
+  Freq: 1=34, 2=80, 3=83, 4=44, 5=78  (sum=319)
+
+--- Comfort ---
+  Column: How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?
+  N: 319
+  Missing: 0
+  Valid N: 319
+  Min: 1.0
+  Max: 5.0
+  Mean: 3.1129
+  Median: 3.0
+  SD: 1.1628
+  Values outside 1–5: 0
+  Freq: 1=36, 2=54, 3=104, 4=88, 5=37  (sum=319)
+
+--- Crowding ---
+  Column: How crowded is the vehicle usually?
+  N: 319
+  Missing: 0
+  Valid N: 319
+  Min: 1.0
+  Max: 5.0
+  Mean: 2.906
+  Median: 3.0
+  SD: 1.5431
+  Values outside 1–5: 0
+  Freq: 1=93, 2=46, 3=48, 4=62, 5=70  (sum=319)

@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+env/
+venv/
+.python/
+
+# Node
+node_modules/
+
+# MS Office lock files
+~$*.docx
+~$*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# SPSS files
+*.spv
+*.sav.bak

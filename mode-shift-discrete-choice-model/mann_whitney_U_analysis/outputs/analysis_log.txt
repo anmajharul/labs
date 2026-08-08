@@ -1,0 +1,5 @@
+2026-08-09 00:50:29,276 [INFO] mann_whitney_utils: Loaded 319 rows × 30 columns from C:\Users\ASUS\Desktop\labs\mode-shift-discrete-choice-model\mann_whitney_U_analysis\data\Mode_shift_bubt.xlsx
+2026-08-09 00:50:29,311 [INFO] mann_whitney_utils: Exported full results: C:\Users\ASUS\Desktop\labs\mode-shift-discrete-choice-model\mann_whitney_U_analysis\outputs\mann_whitney_full_results.csv
+2026-08-09 00:50:29,313 [INFO] mann_whitney_utils: Exported Table 4.4: C:\Users\ASUS\Desktop\labs\mode-shift-discrete-choice-model\mann_whitney_U_analysis\outputs\mann_whitney_table4_4.csv
+2026-08-09 00:50:29,325 [INFO] mann_whitney_utils: Exported Table 4.4 XLSX: C:\Users\ASUS\Desktop\labs\mode-shift-discrete-choice-model\mann_whitney_U_analysis\outputs\Table_4_4_reproduced.xlsx
+2026-08-09 00:50:31,447 [INFO] mann_whitney_utils: Generated 8 figures in C:\Users\ASUS\Desktop\labs\mode-shift-discrete-choice-model\mann_whitney_U_analysis\figures

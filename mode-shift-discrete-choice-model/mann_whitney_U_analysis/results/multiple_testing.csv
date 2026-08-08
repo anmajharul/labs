@@ -1,0 +1,6 @@
+Variable,raw_p,bonferroni_p,holm_p,significant_raw,significant_bonferroni,significant_holm
+Safety: Harassment/Security,0.014651047864802381,0.0732552393240119,0.0732552393240119,True,False,False
+Reliability,0.14231403648202248,0.7115701824101124,0.5692561459280899,False,False,False
+Safety: Road Accidents,0.6188289129748108,1.0,1.0,False,False,False
+Comfort,0.7527297094437043,1.0,1.0,False,False,False
+Crowding,0.5980122364435295,1.0,1.0,False,False,False

@@ -1,0 +1,11 @@
+Variable,Gender,N,Mean,Median,SD,Min,Max,Freq_1,Freq_2,Freq_3,Freq_4,Freq_5
+Safety: Harassment/Security,Male,214,3.5327,4.0,1.1734,1.0,5.0,14,25,61,61,53
+Safety: Harassment/Security,Female,105,3.1714,3.0,1.2894,1.0,5.0,12,21,31,19,22
+Reliability,Male,214,3.5234,4.0,1.3311,1.0,5.0,19,37,39,51,68
+Reliability,Female,105,3.3143,4.0,1.2884,1.0,5.0,14,13,24,34,20
+Safety: Road Accidents,Male,214,3.1916,3.0,1.3655,1.0,5.0,24,53,52,28,57
+Safety: Road Accidents,Female,105,3.1048,3.0,1.2628,1.0,5.0,10,27,31,16,21
+Comfort,Male,214,3.0981,3.0,1.2043,1.0,5.0,26,39,65,56,28
+Comfort,Female,105,3.1429,3.0,1.078,1.0,5.0,10,15,39,32,9
+Crowding,Male,214,2.8738,3.0,1.5437,1.0,5.0,64,31,33,40,46
+Crowding,Female,105,2.9714,3.0,1.5471,1.0,5.0,29,15,15,22,24

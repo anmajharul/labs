@@ -1,0 +1,6 @@
+Variable,Male_N,Female_N,Male_Mean_Rank,Female_Mean_Rank,U_statistic,Z,p_value,Effect_size_r,Significant
+Safety: Harassment/Security,214,105,168.5771,142.519,9399.5,-2.4409,0.014651,0.1367,True
+Reliability,214,105,165.1659,149.4714,10129.5,-1.4672,0.142314,0.0821,False
+Safety: Road Accidents,214,105,161.7523,156.4286,10860.0,-0.4975,0.618829,0.0279,False
+Comfort,214,105,158.8972,162.2476,10999.0,-0.315,0.75273,0.0176,False
+Crowding,214,105,158.1402,163.7905,10837.0,-0.5273,0.598012,0.0295,False

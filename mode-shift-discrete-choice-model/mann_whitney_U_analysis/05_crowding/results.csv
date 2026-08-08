@@ -1,0 +1,2 @@
+analysis,n1_male,n2_female,N,U1_male,U2_female,U_reported,Z_statistic,p_value,effect_size_r,decision
+Crowding,214,105,319,11633.0,10837.0,10837.0,-0.5273,0.598012,0.0295,Fail to reject H₀ (p = 0.598012 ≥ α = 0.05). No statistically significant difference between Male and Female.
