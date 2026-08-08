@@ -4,9 +4,9 @@
 
 <!-- PHASE 1: Terminal Profile Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmajharul/anmajharul/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmajharul/anmajharul/main/light.svg">
-  <img alt="Majharul Islam Terminal Profile" src="https://raw.githubusercontent.com/anmajharul/anmajharul/main/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmajharul/labs/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmajharul/labs/main/light.svg">
+  <img alt="Majharul Islam Terminal Profile" src="https://raw.githubusercontent.com/anmajharul/labs/main/dark.svg" width="100%">
 </picture>
 
 <br/><br/>
@@ -40,9 +40,9 @@
 
 <!-- PHASE 3: Contribution Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmajharul/anmajharul/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmajharul/anmajharul/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anmajharul/anmajharul/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmajharul/labs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmajharul/labs/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anmajharul/labs/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
