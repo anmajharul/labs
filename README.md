@@ -1,5 +1,11 @@
 # Majharul Islam | Transportation Engineer & Researcher 🚀
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anmajharul/labs/main/anmajharul_photo.jpeg" width="140" height="140" style="border-radius: 50%; border: 3px solid #22D3EE; object-fit: cover;" alt="Majharul Islam Profile Picture" />
+</div>
+
+<br/>
+
 Welcome! I am a **Civil Engineer** specializing in **Transportation Engineering** at the **Bangladesh University of Business and Technology (BUBT)**. My work bridges the gap between traditional infrastructure and data-driven smart mobility solutions.
 
 <div align="center">
@@ -30,7 +36,7 @@ Welcome! I am a **Civil Engineer** specializing in **Transportation Engineering*
   <img src="https://img.shields.io/badge/X-anmajharul-black?style=for-the-badge&logo=x" alt="X" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:anmajharul.bd@gmail.com">
+<a href="mailto:contact@anmajharul.bd">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 
