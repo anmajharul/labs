@@ -1,0 +1,9 @@
+column,var_type,n_unique,n_missing,pct_missing,min,max,mean,median,sd
+What is your age?,continuous_numeric,10,0,0.0,19.0,28.0,21.83385579937304,22.0,1.84134415403699
+Total number of family members living in your household (including yourself):,continuous_numeric,7,0,0.0,2.0,10.0,4.545454545454546,4.0,1.1670137521769632
+How many members of your family earn an income?,discrete_numeric,5,0,0.0,0.0,4.0,1.6426332288401253,1.0,0.7423830998498595
+What is the TOTAL One-Way Cost of this trip?,continuous_numeric,41,0,0.0,15.0,400.0,92.4576802507837,70.0,74.30938170713158
+How crowded is the vehicle usually?,likert_ordinal,5,0,0.0,1.0,5.0,2.9059561128526648,3.0,1.5430700055710431
+"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",likert_ordinal,5,0,0.0,1.0,5.0,3.1128526645768027,3.0,1.1627571117243356
+How safe do you feel regarding road accidents on this mode?,likert_ordinal,5,0,0.0,1.0,5.0,3.1630094043887147,3.0,1.331197398018001
+"How safe do you feel regarding harassment, pickpocketing, or personal security?",likert_ordinal,5,0,0.0,1.0,5.0,3.413793103448276,3.0,1.2226624602278429

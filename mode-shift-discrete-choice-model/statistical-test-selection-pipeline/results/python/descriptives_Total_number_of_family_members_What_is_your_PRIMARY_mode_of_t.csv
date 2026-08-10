@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+What is your PRIMARY mode of transport?,MRT (Metro Rail),Total number of family members living in your household (including yourself):,96,4.5208,4.0,1.1237,2.0,7.0,4.0,5.0,1.0,0.3561,-0.0467
+What is your PRIMARY mode of transport?,Personal Motorcycle,Total number of family members living in your household (including yourself):,62,4.6129,4.0,1.2591,3.0,10.0,4.0,5.0,1.0,1.5945,4.4217
+What is your PRIMARY mode of transport?,Public Bus,Total number of family members living in your household (including yourself):,120,4.4167,4.0,1.1923,3.0,10.0,3.0,5.0,2.0,0.9573,2.5109
+What is your PRIMARY mode of transport?,Ridesharing (Uber/Pathao),Total number of family members living in your household (including yourself):,41,4.878,5.0,1.0049,3.0,7.0,4.0,5.0,1.0,0.4106,0.4397

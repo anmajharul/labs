@@ -1,0 +1,2 @@
+Outcome,N,H_uncorrected,Tie_Correction_C,H_corrected,df,p_value,eta_squared,interpretation
+In-Vehicle Time (min),319,110.7823,0.998679,110.9288,3,0.0,0.342631,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"

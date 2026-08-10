@@ -1,0 +1,6 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I do not travel,What is the TOTAL One-Way Cost of this trip?,101,67.7228,65.0,25.1548,15.0,150.0,50.0,80.0,30.0,0.6481,1.3525
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use a Rickshaw,What is the TOTAL One-Way Cost of this trip?,47,217.0,260.0,125.0085,15.0,400.0,60.0,310.0,250.0,-0.4757,-1.2209
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use my Personal Bike/Bicycle,What is the TOTAL One-Way Cost of this trip?,59,70.8475,70.0,22.6509,20.0,120.0,52.5,90.0,37.5,0.2162,-0.4466
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use the MRT (If available),What is the TOTAL One-Way Cost of this trip?,90,82.5,97.5,22.3513,15.0,120.0,66.25,100.0,33.75,-0.9108,0.0062
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I walk,What is the TOTAL One-Way Cost of this trip?,22,38.6364,35.0,20.2474,15.0,80.0,20.0,50.0,30.0,0.6817,-0.5031

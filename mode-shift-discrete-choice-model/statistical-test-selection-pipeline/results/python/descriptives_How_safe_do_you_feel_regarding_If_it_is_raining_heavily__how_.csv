@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If it is raining heavily, how does your travel choice change?",Cancel Trip,"How safe do you feel regarding harassment, pickpocketing, or personal security?",7,2.4286,3.0,0.9759,1.0,3.0,2.0,3.0,1.0,-1.2296,-0.84
+"If it is raining heavily, how does your travel choice change?",No Change,"How safe do you feel regarding harassment, pickpocketing, or personal security?",32,2.5625,2.5,1.3898,1.0,5.0,1.0,3.25,2.25,0.4008,-1.0175
+"If it is raining heavily, how does your travel choice change?",Switch Mode,"How safe do you feel regarding harassment, pickpocketing, or personal security?",89,3.9775,4.0,1.1772,1.0,5.0,3.0,5.0,2.0,-1.0245,0.0919
+"If it is raining heavily, how does your travel choice change?",Wait,"How safe do you feel regarding harassment, pickpocketing, or personal security?",191,3.3298,3.0,1.096,1.0,5.0,3.0,4.0,1.0,-0.1523,-0.5951

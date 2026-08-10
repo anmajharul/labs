@@ -1,0 +1,3 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+Imagine the MRT/Bus is so crowded that you MUST stand the entire way every day. Would you switch to a different bus that guarantees a SEAT but takes 15 minutes longer?,No,How many members of your family earn an income?,129,1.7054,2.0,0.7542,0.0,3.0,1.0,2.0,1.0,0.4373,-0.9212
+Imagine the MRT/Bus is so crowded that you MUST stand the entire way every day. Would you switch to a different bus that guarantees a SEAT but takes 15 minutes longer?,Yes,How many members of your family earn an income?,190,1.6,1.0,0.7332,1.0,4.0,1.0,2.0,1.0,0.9508,0.084

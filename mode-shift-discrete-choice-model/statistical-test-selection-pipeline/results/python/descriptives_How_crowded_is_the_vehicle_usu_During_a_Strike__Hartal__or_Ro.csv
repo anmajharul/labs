@@ -1,0 +1,6 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I do not travel,How crowded is the vehicle usually?,101,3.8812,4.0,1.306,1.0,5.0,3.0,5.0,2.0,-0.9847,-0.2625
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use a Rickshaw,How crowded is the vehicle usually?,47,1.8723,2.0,0.9468,1.0,5.0,1.0,2.0,1.0,1.2277,1.6456
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use my Personal Bike/Bicycle,How crowded is the vehicle usually?,59,1.2542,1.0,0.8629,1.0,5.0,1.0,1.0,0.0,3.6412,12.7269
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use the MRT (If available),How crowded is the vehicle usually?,90,3.5,4.0,1.1922,1.0,5.0,3.0,4.0,1.0,-0.5289,-0.3811
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I walk,How crowded is the vehicle usually?,22,2.6364,2.5,1.2927,1.0,5.0,2.0,3.75,1.75,0.3235,-0.9115

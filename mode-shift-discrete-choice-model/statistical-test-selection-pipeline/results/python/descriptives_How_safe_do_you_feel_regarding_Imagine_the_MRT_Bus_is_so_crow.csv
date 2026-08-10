@@ -1,0 +1,3 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+Imagine the MRT/Bus is so crowded that you MUST stand the entire way every day. Would you switch to a different bus that guarantees a SEAT but takes 15 minutes longer?,No,"How safe do you feel regarding harassment, pickpocketing, or personal security?",129,3.8915,4.0,1.1473,1.0,5.0,3.0,5.0,2.0,-0.888,-0.0059
+Imagine the MRT/Bus is so crowded that you MUST stand the entire way every day. Would you switch to a different bus that guarantees a SEAT but takes 15 minutes longer?,Yes,"How safe do you feel regarding harassment, pickpocketing, or personal security?",190,3.0895,3.0,1.1672,1.0,5.0,2.0,4.0,2.0,-0.0546,-0.6809

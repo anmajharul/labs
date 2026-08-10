@@ -1,0 +1,6 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+What is your family's approximate total monthly income from all sources?,"1,00,001 – 1,50,000 BDT",How crowded is the vehicle usually?,61,3.0,3.0,1.6228,1.0,5.0,1.0,5.0,4.0,-0.0242,-1.6207
+What is your family's approximate total monthly income from all sources?,"30,000 – 60,000 BDT",How crowded is the vehicle usually?,113,3.0265,3.0,1.4968,1.0,5.0,2.0,4.0,2.0,-0.0948,-1.4124
+What is your family's approximate total monthly income from all sources?,"60,001 – 1,00,000 BDT",How crowded is the vehicle usually?,107,2.8131,3.0,1.5488,1.0,5.0,1.0,4.0,3.0,0.1172,-1.5279
+What is your family's approximate total monthly income from all sources?,"Less than 30,000 BDT",How crowded is the vehicle usually?,20,2.5,2.0,1.3955,1.0,5.0,1.0,3.0,2.0,0.6456,-0.6199
+What is your family's approximate total monthly income from all sources?,"More than 1,50,000 BDT",How crowded is the vehicle usually?,18,2.8333,3.0,1.7235,1.0,5.0,1.0,4.0,3.0,0.056,-1.9268

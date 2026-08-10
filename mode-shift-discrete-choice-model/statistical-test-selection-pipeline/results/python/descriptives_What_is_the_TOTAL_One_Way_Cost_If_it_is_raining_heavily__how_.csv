@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If it is raining heavily, how does your travel choice change?",Cancel Trip,What is the TOTAL One-Way Cost of this trip?,7,42.8571,30.0,19.7605,20.0,70.0,30.0,60.0,30.0,0.3555,-2.1237
+"If it is raining heavily, how does your travel choice change?",No Change,What is the TOTAL One-Way Cost of this trip?,32,55.0,50.0,28.4548,15.0,130.0,40.0,62.5,22.5,1.0283,1.083
+"If it is raining heavily, how does your travel choice change?",Switch Mode,What is the TOTAL One-Way Cost of this trip?,89,64.6629,60.0,27.3737,15.0,150.0,50.0,80.0,30.0,0.7085,0.844
+"If it is raining heavily, how does your travel choice change?",Wait,What is the TOTAL One-Way Cost of this trip?,191,113.5026,90.0,87.2717,15.0,400.0,60.0,100.0,40.0,1.7753,2.1035

@@ -1,0 +1,4 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+How do you get from your home to the first Station or Bus Stop?,Auto / Leguna,What is your age?,28,22.0357,21.5,1.8951,19.0,26.0,21.0,23.0,2.0,0.5779,-0.6591
+How do you get from your home to the first Station or Bus Stop?,Rickshaw,What is your age?,89,22.1573,22.0,1.7445,19.0,27.0,21.0,24.0,3.0,0.2656,-0.6171
+How do you get from your home to the first Station or Bus Stop?,Walk,What is your age?,198,21.6465,21.0,1.8541,19.0,28.0,20.0,23.0,3.0,0.8134,0.5779

@@ -1,0 +1,7 @@
+Comparison,Group A,Group B,Mean Rank A,Mean Rank B,z-statistic,Raw p-value,Bonferroni p-value,Bonferroni threshold,Significant (Bonferroni)
+MRT (Metro Rail) vs Personal Motorcycle,MRT (Metro Rail),Personal Motorcycle,186.417,143.71,2.8561,0.0043,0.0257,0.0083,Yes
+MRT (Metro Rail) vs Public Bus,MRT (Metro Rail),Public Bus,186.417,111.25,5.9814,0.0,0.0,0.0083,Yes
+MRT (Metro Rail) vs Ridesharing (Uber/Pathao),MRT (Metro Rail),Ridesharing (Uber/Pathao),186.417,265.463,-4.6167,0.0,0.0,0.0083,Yes
+Personal Motorcycle vs Public Bus,Personal Motorcycle,Public Bus,143.71,111.25,2.2614,0.0237,0.1424,0.0083,No
+Personal Motorcycle vs Ridesharing (Uber/Pathao),Personal Motorcycle,Ridesharing (Uber/Pathao),143.71,265.463,-6.5907,0.0,0.0,0.0083,Yes
+Public Bus vs Ridesharing (Uber/Pathao),Public Bus,Ridesharing (Uber/Pathao),111.25,265.463,-9.289,0.0,0.0,0.0083,Yes

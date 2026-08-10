@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If it is raining heavily, how does your travel choice change?",Cancel Trip,How crowded is the vehicle usually?,7,1.7143,2.0,0.7559,1.0,3.0,1.0,2.0,1.0,0.5953,-0.35
+"If it is raining heavily, how does your travel choice change?",No Change,How crowded is the vehicle usually?,32,2.5625,2.0,1.2684,1.0,5.0,2.0,3.25,1.25,0.8117,-0.4428
+"If it is raining heavily, how does your travel choice change?",Switch Mode,How crowded is the vehicle usually?,89,1.7528,1.0,1.2728,1.0,5.0,1.0,2.0,1.0,1.5282,1.0827
+"If it is raining heavily, how does your travel choice change?",Wait,How crowded is the vehicle usually?,191,3.5445,4.0,1.3599,1.0,5.0,3.0,5.0,2.0,-0.615,-0.8314

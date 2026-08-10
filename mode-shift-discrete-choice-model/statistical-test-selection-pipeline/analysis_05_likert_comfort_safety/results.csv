@@ -1,0 +1,12 @@
+Outcome,Grouping,N,k,Levene_p,H_corrected,p_value,eta_squared,Primary_Test,Decision
+How would you rate the physical comfort (Seating s,Gender,319,2,0.1147,0.0993,0.75273,-0.002841,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,What is your family's approximate total ,319,5,0.9511,7.1951,0.125932,0.010175,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,What is your personal monthly expenditur,319,5,0.8691,5.1996,0.267427,0.00382,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,What is your PRIMARY mode of transport?,319,4,0.0714,132.662,0.0,0.411625,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,How do you get from your home to the fir,315,3,0.2103,16.8891,0.000215,0.047721,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,If the fare of your current primary mode,319,2,0.3329,0.3864,0.534192,-0.001936,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,Imagine the MRT/Bus is so crowded that y,319,2,0.0,2.5465,0.110536,0.004879,WELCH ANOVA,WELCH PREFERRED
+How would you rate the physical comfort (Seating s,"""Premium Bus"" service (AC + Guaranteed S",319,2,0.569,56.6195,0.0,0.175456,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,"If it is raining heavily, how does your ",319,4,0.005,10.2742,0.016374,0.023093,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,During a Strike (Hartal) or Road Blockad,319,5,0.1331,110.1546,0.0,0.338072,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+How would you rate the physical comfort (Seating s,If a dedicated BUBT Student Bus was intr,319,2,0.0036,0.0705,0.790601,-0.002932,WELCH ANOVA,WELCH PREFERRED

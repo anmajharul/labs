@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+What is your PRIMARY mode of transport?,MRT (Metro Rail),How many members of your family earn an income?,96,1.6042,1.0,0.7179,1.0,4.0,1.0,2.0,1.0,0.9325,0.2141
+What is your PRIMARY mode of transport?,Personal Motorcycle,How many members of your family earn an income?,62,1.629,1.5,0.7067,1.0,3.0,1.0,2.0,1.0,0.6753,-0.7207
+What is your PRIMARY mode of transport?,Public Bus,How many members of your family earn an income?,120,1.5917,1.0,0.7503,0.0,4.0,1.0,2.0,1.0,0.8343,-0.0655
+What is your PRIMARY mode of transport?,Ridesharing (Uber/Pathao),How many members of your family earn an income?,41,1.9024,2.0,0.8002,1.0,3.0,1.0,3.0,2.0,0.1813,-1.4026

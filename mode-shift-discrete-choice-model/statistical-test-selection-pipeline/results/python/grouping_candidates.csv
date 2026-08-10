@@ -1,0 +1,13 @@
+column,var_type,n_unique,n_missing,pct_missing
+Gender,binary_categorical,2,0,0.0
+How many members of your family earn an income?,discrete_numeric,5,0,0.0
+What is your family's approximate total monthly income from all sources?,nominal_categorical,5,0,0.0
+What is your personal monthly expenditure? (Pocket money + Earnings),nominal_categorical,5,0,0.0
+What is your PRIMARY mode of transport?,nominal_categorical,4,0,0.0
+How do you get from your home to the first Station or Bus Stop?,nominal_categorical,3,4,1.25
+"If the fare of your current primary mode INCREASED by 10% (e.g., +5-10 Taka), would you switch to a different mode?",binary_categorical,2,0,0.0
+Imagine the MRT/Bus is so crowded that you MUST stand the entire way every day. Would you switch to a different bus that guarantees a SEAT but takes 15 minutes longer?,binary_categorical,2,0,0.0
+"""Premium Bus"" service (AC + Guaranteed Seat) was available but cost DOUBLE your current fare, would you take it?",binary_categorical,2,0,0.0
+"If it is raining heavily, how does your travel choice change?",nominal_categorical,4,0,0.0
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",nominal_categorical,5,0,0.0
+"If a dedicated BUBT Student Bus was introduced in your area with a strict daily schedule (e.g., leaves exactly at 7:30 AM and returns exactly at 4:00 PM), would you switch to it from your current mode?",binary_categorical,2,0,0.0

@@ -1,0 +1,6 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+What is your family's approximate total monthly income from all sources?,"1,00,001 – 1,50,000 BDT",How many members of your family earn an income?,61,2.2295,2.0,0.5289,1.0,3.0,2.0,3.0,1.0,0.1985,-0.1062
+What is your family's approximate total monthly income from all sources?,"30,000 – 60,000 BDT",How many members of your family earn an income?,113,1.1593,1.0,0.4133,1.0,3.0,1.0,1.0,0.0,2.6262,6.6071
+What is your family's approximate total monthly income from all sources?,"60,001 – 1,00,000 BDT",How many members of your family earn an income?,107,1.6916,2.0,0.6356,1.0,3.0,1.0,2.0,1.0,0.3654,-0.6624
+What is your family's approximate total monthly income from all sources?,"Less than 30,000 BDT",How many members of your family earn an income?,20,1.1,1.0,0.4472,0.0,2.0,1.0,1.0,0.0,0.5492,2.6625
+What is your family's approximate total monthly income from all sources?,"More than 1,50,000 BDT",How many members of your family earn an income?,18,3.0,3.0,0.5941,1.0,4.0,3.0,3.0,0.0,-1.8937,8.5

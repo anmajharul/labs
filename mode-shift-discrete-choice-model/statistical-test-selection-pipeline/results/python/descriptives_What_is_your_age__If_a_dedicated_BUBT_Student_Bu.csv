@@ -1,0 +1,3 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If a dedicated BUBT Student Bus was introduced in your area with a strict daily schedule (e.g., leaves exactly at 7:30 AM and returns exactly at 4:00 PM), would you switch to it from your current mode?",No,What is your age?,90,21.9444,22.0,1.9451,19.0,28.0,20.0,23.0,3.0,0.5858,-0.0354
+"If a dedicated BUBT Student Bus was introduced in your area with a strict daily schedule (e.g., leaves exactly at 7:30 AM and returns exactly at 4:00 PM), would you switch to it from your current mode?",Yes,What is your age?,229,21.7904,21.0,1.8015,19.0,28.0,20.0,23.0,3.0,0.5899,-0.03

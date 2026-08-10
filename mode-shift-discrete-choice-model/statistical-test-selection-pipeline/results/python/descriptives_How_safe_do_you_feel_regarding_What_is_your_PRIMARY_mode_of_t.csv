@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+What is your PRIMARY mode of transport?,MRT (Metro Rail),"How safe do you feel regarding harassment, pickpocketing, or personal security?",96,3.6458,4.0,0.9731,1.0,5.0,3.0,4.0,1.0,-0.1418,-0.6516
+What is your PRIMARY mode of transport?,Personal Motorcycle,"How safe do you feel regarding harassment, pickpocketing, or personal security?",62,4.6129,5.0,0.6617,1.0,5.0,4.0,5.0,1.0,-2.8874,13.2746
+What is your PRIMARY mode of transport?,Public Bus,"How safe do you feel regarding harassment, pickpocketing, or personal security?",120,2.4917,3.0,1.0208,1.0,5.0,2.0,3.0,1.0,0.0952,-0.7095
+What is your PRIMARY mode of transport?,Ridesharing (Uber/Pathao),"How safe do you feel regarding harassment, pickpocketing, or personal security?",41,3.7561,4.0,0.916,2.0,5.0,3.0,4.0,1.0,-0.0974,-0.8828

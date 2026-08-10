@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If it is raining heavily, how does your travel choice change?",Cancel Trip,How many members of your family earn an income?,7,1.2857,1.0,0.7559,1.0,3.0,1.0,1.0,0.0,2.6458,7.0
+"If it is raining heavily, how does your travel choice change?",No Change,How many members of your family earn an income?,32,1.625,1.5,0.7513,1.0,4.0,1.0,2.0,1.0,1.2473,1.8053
+"If it is raining heavily, how does your travel choice change?",Switch Mode,How many members of your family earn an income?,89,1.5843,1.0,0.72,0.0,3.0,1.0,2.0,1.0,0.6319,-0.5347
+"If it is raining heavily, how does your travel choice change?",Wait,How many members of your family earn an income?,191,1.6859,2.0,0.751,1.0,4.0,1.0,2.0,1.0,0.6644,-0.671

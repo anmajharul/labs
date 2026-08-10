@@ -1,0 +1,2 @@
+Outcome,N,H_uncorrected,Tie_Correction_C,H_corrected,df,p_value,eta_squared,interpretation
+Access Time (min),319,168.445,0.993555,169.5376,3,0.0,0.528691,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"

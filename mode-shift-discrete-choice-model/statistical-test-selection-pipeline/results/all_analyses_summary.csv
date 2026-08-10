@@ -1,0 +1,49 @@
+Outcome,Grouping Candidate,Primary Test,Decision,Levene p,KW H,p-value,eta^2
+What is the TOTAL One-Way Cost of this t,Gender,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.6263,1.0374,0.3084,0.0001
+What is the TOTAL One-Way Cost of this t,What is your family's approximate t,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.1934,19.2515,< 0.001,0.0486
+What is the TOTAL One-Way Cost of this t,What is your personal monthly expen,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.5416,37.9018,< 0.001,0.1080
+What is the TOTAL One-Way Cost of this t,What is your PRIMARY mode of transp,WELCH ANOVA,WELCH PREFERRED,0.0000,97.9107,< 0.001,0.3013
+What is the TOTAL One-Way Cost of this t,How do you get from your home to th,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.0000,4.9315,0.0849,0.0094
+What is the TOTAL One-Way Cost of this t,If the fare of your current primary,WELCH ANOVA,WELCH PREFERRED,0.0000,18.1698,< 0.001,0.0542
+What is the TOTAL One-Way Cost of this t,Imagine the MRT/Bus is so crowded t,WELCH ANOVA,WELCH PREFERRED,0.0000,3.0962,0.0785,0.0066
+What is the TOTAL One-Way Cost of this t,"""Premium Bus"" service (AC + Guarant",KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.0000,42.3449,< 0.001,0.1304
+What is the TOTAL One-Way Cost of this t,"If it is raining heavily, how does ",KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.0001,57.9365,< 0.001,0.1744
+What is the TOTAL One-Way Cost of this t,During a Strike (Hartal) or Road Bl,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.0000,75.3995,< 0.001,0.2274
+What is the TOTAL One-Way Cost of this t,If a dedicated BUBT Student Bus was,WELCH ANOVA,WELCH PREFERRED,0.0004,16.9440,< 0.001,0.0503
+What is your age?,Gender,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.1164,5.3111,0.0212,0.0136
+What is your age?,What is your family's approximate t,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.4952,9.6204,0.0473,0.0179
+What is your age?,What is your personal monthly expen,WELCH ANOVA,WELCH PREFERRED,0.0007,20.1637,< 0.001,0.0515
+What is your age?,What is your PRIMARY mode of transp,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.4978,6.8168,0.0780,0.0121
+What is your age?,How do you get from your home to th,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.9164,6.1299,0.0467,0.0132
+What is your age?,Gender,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.1164,5.3111,0.0212,0.0136
+What is your age?,What is your family's approximate t,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.4952,9.6204,0.0473,0.0179
+What is your age?,What is your personal monthly expen,WELCH ANOVA,WELCH PREFERRED,0.0007,20.1637,< 0.001,0.0515
+What is your age?,What is your PRIMARY mode of transp,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.4978,6.8168,0.0780,0.0121
+What is your age?,How do you get from your home to th,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.9164,6.1299,0.0467,0.0132
+What is your age?,Gender,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.1164,5.3111,0.0212,0.0136
+What is your age?,What is your family's approximate t,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.4952,9.6204,0.0473,0.0179
+What is your age?,What is your personal monthly expen,WELCH ANOVA,WELCH PREFERRED,0.0007,20.1637,< 0.001,0.0515
+What is your age?,What is your PRIMARY mode of transp,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.4978,6.8168,0.0780,0.0121
+What is your age?,How do you get from your home to th,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.9164,6.1299,0.0467,0.0132
+How would you rate the physical comfort ,Gender,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.1147,0.0993,0.7527,-0.0028
+How would you rate the physical comfort ,What is your family's approximate t,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.9511,7.1951,0.1259,0.0102
+How would you rate the physical comfort ,What is your personal monthly expen,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.8691,5.1996,0.2674,0.0038
+How would you rate the physical comfort ,What is your PRIMARY mode of transp,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.0714,132.6620,< 0.001,0.4116
+How would you rate the physical comfort ,How do you get from your home to th,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.2103,16.8891,< 0.001,0.0477
+How would you rate the physical comfort ,If the fare of your current primary,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.3329,0.3864,0.5342,-0.0019
+How would you rate the physical comfort ,Imagine the MRT/Bus is so crowded t,WELCH ANOVA,WELCH PREFERRED,0.0000,2.5465,0.1105,0.0049
+How would you rate the physical comfort ,"""Premium Bus"" service (AC + Guarant",ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.5690,56.6195,< 0.001,0.1755
+How would you rate the physical comfort ,"If it is raining heavily, how does ",KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.0050,10.2742,0.0164,0.0231
+How would you rate the physical comfort ,During a Strike (Hartal) or Road Bl,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.1331,110.1546,< 0.001,0.3381
+How would you rate the physical comfort ,If a dedicated BUBT Student Bus was,WELCH ANOVA,WELCH PREFERRED,0.0036,0.0705,0.7906,-0.0029
+What is your age?,Gender,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.1164,5.3111,0.0212,0.0136
+What is your age?,What is your family's approximate t,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.4952,9.6204,0.0473,0.0179
+What is your age?,What is your personal monthly expen,WELCH ANOVA,WELCH PREFERRED,0.0007,20.1637,< 0.001,0.0515
+What is your age?,What is your PRIMARY mode of transp,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.4978,6.8168,0.0780,0.0121
+What is your age?,How do you get from your home to th,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.9164,6.1299,0.0467,0.0132
+What is your age?,If the fare of your current primary,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.0601,9.6257,0.0019,0.0272
+What is your age?,Imagine the MRT/Bus is so crowded t,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.7246,0.5662,0.4518,-0.0014
+What is your age?,"""Premium Bus"" service (AC + Guarant",ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.3330,0.0155,0.9009,-0.0031
+What is your age?,"If it is raining heavily, how does ",KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.0803,22.5528,< 0.001,0.0621
+What is your age?,During a Strike (Hartal) or Road Bl,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED,0.1546,17.4696,0.0016,0.0429
+What is your age?,If a dedicated BUBT Student Bus was,ONE-WAY ANOVA,PARAMETRIC PREFERRED,0.5717,0.2975,0.5854,-0.0022

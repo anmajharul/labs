@@ -1,0 +1,3 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If the fare of your current primary mode INCREASED by 10% (e.g., +5-10 Taka), would you switch to a different mode?",No,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",112,3.0446,3.0,1.1262,1.0,5.0,2.0,4.0,2.0,-0.3588,-0.5685
+"If the fare of your current primary mode INCREASED by 10% (e.g., +5-10 Taka), would you switch to a different mode?",Yes,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",207,3.1498,3.0,1.1831,1.0,5.0,2.0,4.0,2.0,-0.1517,-0.7874

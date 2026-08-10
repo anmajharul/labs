@@ -1,0 +1,2 @@
+Outcome,N,H_uncorrected,Tie_Correction_C,H_corrected,df,p_value,eta_squared,interpretation
+Total Travel Time (min),319,73.2652,0.999178,73.3255,3,0.0,0.223256,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: "Islam"
+    given-names: "Majharul"
+    affiliation: "Bangladesh University of Business and Technology (BUBT)"
+title: "Kruskal-Wallis H Analysis: Reproducible Non-Parametric Model-Choice Statistical Pipeline"
+version: 1.0.0
+date-released: 2026-08-11
+license: MIT

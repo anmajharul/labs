@@ -1,0 +1,2 @@
+Outcome,N,H_uncorrected,Tie_Correction_C,H_corrected,df,p_value,eta_squared,interpretation
+One-Way Cost (BDT),319,96.9425,0.990111,97.9107,3,0.0,0.301304,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"

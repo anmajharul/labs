@@ -1,0 +1,5 @@
+Variable,Chapter4_H,Reproduced_H,Difference_H,Status
+"One-Way Cost (BDT)","97.911","97.9107","0.0003","PASS"
+"Access Time (min)","169.538","169.5376","0.0004","PASS"
+"In-Vehicle Time (min)","110.929","110.9288","0.0002","PASS"
+"Total Travel Time (min)","73.325","73.3255","0.0005","PASS"

@@ -1,0 +1,3 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"""Premium Bus"" service (AC + Guaranteed Seat) was available but cost DOUBLE your current fare, would you take it?",No,What is your age?,177,21.8305,22.0,1.7947,19.0,28.0,21.0,23.0,2.0,0.6095,0.1517
+"""Premium Bus"" service (AC + Guaranteed Seat) was available but cost DOUBLE your current fare, would you take it?",Yes,What is your age?,142,21.838,21.5,1.9042,19.0,28.0,20.0,23.0,3.0,0.5793,-0.1929

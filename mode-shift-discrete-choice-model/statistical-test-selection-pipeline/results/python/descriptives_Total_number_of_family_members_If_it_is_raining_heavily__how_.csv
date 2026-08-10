@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If it is raining heavily, how does your travel choice change?",Cancel Trip,Total number of family members living in your household (including yourself):,7,4.1429,5.0,1.4639,2.0,6.0,3.0,5.0,2.0,-0.337,-1.5369
+"If it is raining heavily, how does your travel choice change?",No Change,Total number of family members living in your household (including yourself):,32,4.6875,5.0,1.4906,2.0,10.0,4.0,5.0,1.0,1.3252,4.1008
+"If it is raining heavily, how does your travel choice change?",Switch Mode,Total number of family members living in your household (including yourself):,89,4.4831,4.0,1.1785,3.0,10.0,4.0,5.0,1.0,1.4048,4.3408
+"If it is raining heavily, how does your travel choice change?",Wait,Total number of family members living in your household (including yourself):,191,4.5654,4.0,1.0929,3.0,7.0,4.0,5.0,1.0,0.4177,-0.4081

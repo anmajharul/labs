@@ -1,0 +1,4 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+How do you get from your home to the first Station or Bus Stop?,Auto / Leguna,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",28,2.3214,2.0,0.8189,1.0,4.0,2.0,3.0,1.0,-0.2462,-0.7068
+How do you get from your home to the first Station or Bus Stop?,Rickshaw,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",89,3.0562,3.0,1.1809,1.0,5.0,2.0,4.0,2.0,-0.0685,-0.9102
+How do you get from your home to the first Station or Bus Stop?,Walk,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",198,3.2172,3.0,1.1436,1.0,5.0,3.0,4.0,1.0,-0.3939,-0.4599

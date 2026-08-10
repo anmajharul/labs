@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If it is raining heavily, how does your travel choice change?",Cancel Trip,What is your age?,7,23.0,22.0,1.291,22.0,25.0,22.0,24.0,2.0,0.6507,-1.704
+"If it is raining heavily, how does your travel choice change?",No Change,What is your age?,32,22.9375,23.0,1.8128,20.0,26.0,21.75,24.0,2.25,-0.0745,-0.8325
+"If it is raining heavily, how does your travel choice change?",Switch Mode,What is your age?,89,22.1011,22.0,2.0618,19.0,28.0,21.0,24.0,3.0,0.6332,0.1606
+"If it is raining heavily, how does your travel choice change?",Wait,What is your age?,191,21.4817,21.0,1.6443,19.0,26.0,20.0,22.0,2.0,0.625,-0.0589

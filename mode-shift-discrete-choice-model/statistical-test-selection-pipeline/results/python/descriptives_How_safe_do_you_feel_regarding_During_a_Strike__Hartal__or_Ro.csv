@@ -1,0 +1,6 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I do not travel,"How safe do you feel regarding harassment, pickpocketing, or personal security?",101,2.6634,3.0,1.0703,1.0,5.0,2.0,3.0,1.0,0.1127,-0.6238
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use a Rickshaw,"How safe do you feel regarding harassment, pickpocketing, or personal security?",47,3.7021,4.0,1.0615,1.0,5.0,3.0,5.0,2.0,-0.3881,-0.5588
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use my Personal Bike/Bicycle,"How safe do you feel regarding harassment, pickpocketing, or personal security?",59,4.5254,5.0,0.7277,1.0,5.0,4.0,5.0,1.0,-2.3143,8.3395
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use the MRT (If available),"How safe do you feel regarding harassment, pickpocketing, or personal security?",90,3.5889,4.0,1.1107,1.0,5.0,3.0,4.0,1.0,-0.5312,-0.0476
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I walk,"How safe do you feel regarding harassment, pickpocketing, or personal security?",22,2.5455,2.5,0.8579,1.0,4.0,2.0,3.0,1.0,0.0946,-0.4404

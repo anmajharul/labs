@@ -1,0 +1,13 @@
+name: statistical_test_pipeline
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - openpyxl
+  - statsmodels
+  - pip

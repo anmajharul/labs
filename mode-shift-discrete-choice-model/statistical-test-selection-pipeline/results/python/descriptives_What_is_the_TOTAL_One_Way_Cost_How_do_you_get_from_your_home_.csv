@@ -1,0 +1,4 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+How do you get from your home to the first Station or Bus Stop?,Auto / Leguna,What is the TOTAL One-Way Cost of this trip?,28,65.8929,60.0,19.2476,35.0,110.0,50.0,80.0,30.0,0.5164,-0.4594
+How do you get from your home to the first Station or Bus Stop?,Rickshaw,What is the TOTAL One-Way Cost of this trip?,89,72.3596,70.0,27.6862,20.0,150.0,50.0,100.0,50.0,-0.0901,-0.4144
+How do you get from your home to the first Station or Bus Stop?,Walk,What is the TOTAL One-Way Cost of this trip?,198,105.1465,70.0,89.7356,15.0,400.0,50.0,100.0,50.0,1.7676,2.0968

@@ -19,12 +19,10 @@ ENV/
 Thumbs.db
 desktop.ini
 
-# R files
+# R & SPSS
 .Rhistory
 .RData
 .Rproj.user/
-
-# SPSS files
 *.spv
 *.sav.bak
 

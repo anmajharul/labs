@@ -1,0 +1,12 @@
+Outcome,Grouping,N,k,Levene_p,H_corrected,p_value,eta_squared,Primary_Test,Decision
+What is your age?,Gender,319,2,0.1164,5.3111,0.021189,0.0136,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+What is your age?,What is your family's approximate total ,319,5,0.4952,9.6204,0.047332,0.017899,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is your age?,What is your personal monthly expenditur,319,5,0.0007,20.1637,0.000464,0.051477,WELCH ANOVA,WELCH PREFERRED
+What is your age?,What is your PRIMARY mode of transport?,319,4,0.4978,6.8168,0.077971,0.012117,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+What is your age?,How do you get from your home to the fir,315,3,0.9164,6.1299,0.046657,0.013237,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is your age?,If the fare of your current primary mode,319,2,0.0601,9.6257,0.001919,0.027211,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+What is your age?,Imagine the MRT/Bus is so crowded that y,319,2,0.7246,0.5662,0.451763,-0.001368,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+What is your age?,"""Premium Bus"" service (AC + Guaranteed S",319,2,0.333,0.0155,0.900864,-0.003106,ONE-WAY ANOVA,PARAMETRIC PREFERRED
+What is your age?,"If it is raining heavily, how does your ",319,4,0.0803,22.5528,5e-05,0.062072,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is your age?,During a Strike (Hartal) or Road Blockad,319,5,0.1546,17.4696,0.001566,0.042897,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is your age?,If a dedicated BUBT Student Bus was intr,319,2,0.5717,0.2975,0.585434,-0.002216,ONE-WAY ANOVA,PARAMETRIC PREFERRED

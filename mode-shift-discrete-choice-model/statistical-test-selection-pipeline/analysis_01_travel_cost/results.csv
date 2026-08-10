@@ -1,0 +1,12 @@
+Outcome,Grouping,N,k,Levene_p,H_corrected,p_value,eta_squared,Primary_Test,Decision
+What is the TOTAL One-Way Cost of this trip?,Gender,319,2,0.6263,1.0374,0.308436,0.000118,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is the TOTAL One-Way Cost of this trip?,What is your family's approximate total ,319,5,0.1934,19.2515,0.000701,0.048572,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is the TOTAL One-Way Cost of this trip?,What is your personal monthly expenditur,319,5,0.5416,37.9018,0.0,0.107968,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is the TOTAL One-Way Cost of this trip?,What is your PRIMARY mode of transport?,319,4,0.0,97.9107,0.0,0.301304,WELCH ANOVA,WELCH PREFERRED
+What is the TOTAL One-Way Cost of this trip?,How do you get from your home to the fir,315,3,0.0,4.9315,0.084944,0.009396,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is the TOTAL One-Way Cost of this trip?,If the fare of your current primary mode,319,2,0.0,18.1698,2e-05,0.054164,WELCH ANOVA,WELCH PREFERRED
+What is the TOTAL One-Way Cost of this trip?,Imagine the MRT/Bus is so crowded that y,319,2,0.0,3.0962,0.078477,0.006613,WELCH ANOVA,WELCH PREFERRED
+What is the TOTAL One-Way Cost of this trip?,"""Premium Bus"" service (AC + Guaranteed S",319,2,0.0,42.3449,0.0,0.130426,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is the TOTAL One-Way Cost of this trip?,"If it is raining heavily, how does your ",319,4,0.0001,57.9365,0.0,0.174401,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is the TOTAL One-Way Cost of this trip?,During a Strike (Hartal) or Road Blockad,319,5,0.0,75.3995,0.0,0.227387,KRUSKAL-WALLIS,NON-PARAMETRIC PREFERRED
+What is the TOTAL One-Way Cost of this trip?,If a dedicated BUBT Student Bus was intr,319,2,0.0004,16.944,3.8e-05,0.050297,WELCH ANOVA,WELCH PREFERRED

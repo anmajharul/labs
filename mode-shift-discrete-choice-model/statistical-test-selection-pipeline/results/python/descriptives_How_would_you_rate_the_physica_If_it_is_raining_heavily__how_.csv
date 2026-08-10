@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"If it is raining heavily, how does your travel choice change?",Cancel Trip,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",7,2.7143,3.0,1.1127,1.0,4.0,2.0,3.5,1.5,-0.2489,-0.9444
+"If it is raining heavily, how does your travel choice change?",No Change,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",32,2.5,2.5,1.344,1.0,5.0,1.0,3.0,2.0,0.5102,-0.6981
+"If it is raining heavily, how does your travel choice change?",Switch Mode,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",89,3.191,3.0,0.952,1.0,5.0,3.0,4.0,1.0,-0.4759,0.2188
+"If it is raining heavily, how does your travel choice change?",Wait,"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",191,3.1937,3.0,1.1961,1.0,5.0,2.0,4.0,2.0,-0.2125,-0.8334

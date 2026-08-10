@@ -1,0 +1,4 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+How do you get from your home to the first Station or Bus Stop?,Auto / Leguna,Total number of family members living in your household (including yourself):,28,4.6786,5.0,1.5409,2.0,10.0,4.0,5.25,1.25,1.3055,4.1279
+How do you get from your home to the first Station or Bus Stop?,Rickshaw,Total number of family members living in your household (including yourself):,89,4.4494,4.0,1.0226,2.0,7.0,4.0,5.0,1.0,0.107,-0.5558
+How do you get from your home to the first Station or Bus Stop?,Walk,Total number of family members living in your household (including yourself):,198,4.5606,4.0,1.1767,3.0,10.0,4.0,5.0,1.0,0.8918,1.5221

@@ -1,0 +1,4 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+How do you get from your home to the first Station or Bus Stop?,Auto / Leguna,"How safe do you feel regarding harassment, pickpocketing, or personal security?",28,2.4286,2.5,0.9201,1.0,4.0,2.0,3.0,1.0,-0.0815,-0.7438
+How do you get from your home to the first Station or Bus Stop?,Rickshaw,"How safe do you feel regarding harassment, pickpocketing, or personal security?",89,3.1573,3.0,1.1068,1.0,5.0,2.0,4.0,2.0,-0.1648,-0.5915
+How do you get from your home to the first Station or Bus Stop?,Walk,"How safe do you feel regarding harassment, pickpocketing, or personal security?",198,3.6364,4.0,1.2171,1.0,5.0,3.0,5.0,2.0,-0.5692,-0.5662

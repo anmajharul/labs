@@ -1,0 +1,6 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I do not travel,What is your age?,101,21.9406,22.0,1.8211,19.0,26.0,21.0,23.0,2.0,0.2418,-0.8804
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use a Rickshaw,What is your age?,47,21.5957,21.0,1.4545,19.0,24.0,20.0,23.0,3.0,0.2666,-1.1765
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use my Personal Bike/Bicycle,What is your age?,59,21.3559,21.0,1.5731,19.0,25.0,20.0,22.0,2.0,0.4818,-0.4283
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use the MRT (If available),What is your age?,90,21.7222,21.0,1.8422,19.0,26.0,20.0,23.0,3.0,0.6077,-0.1778
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I walk,What is your age?,22,23.5909,24.0,2.3636,20.0,28.0,22.0,24.75,2.75,0.3748,-0.6023

@@ -1,0 +1,5 @@
+Folder,Variable,N,k,H_uncorrected,Tie_Correction_C,H_corrected,df,p_value,eta_squared,interpretation
+01_one_way_cost,One-Way Cost (BDT),319,4,96.9425,0.990111,97.9107,3,0.0,0.301304,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"
+02_access_time,Access Time (min),319,4,168.445,0.993555,169.5376,3,0.0,0.528691,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"
+03_in_vehicle_time,In-Vehicle Time (min),319,4,110.7823,0.998679,110.9288,3,0.0,0.342631,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"
+04_total_travel_time,Total Travel Time (min),319,4,73.2652,0.999178,73.3255,3,0.0,0.223256,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"

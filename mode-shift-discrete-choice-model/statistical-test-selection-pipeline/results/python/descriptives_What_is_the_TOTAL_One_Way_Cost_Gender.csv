@@ -1,0 +1,3 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+Gender,Female,What is the TOTAL One-Way Cost of this trip?,105,98.0952,80.0,78.4721,20.0,400.0,60.0,100.0,40.0,2.2419,4.6744
+Gender,Male,What is the TOTAL One-Way Cost of this trip?,214,89.6916,70.0,72.2075,15.0,400.0,50.0,100.0,50.0,2.4128,5.635

@@ -1,0 +1,31 @@
+column,n_total,n_missing,pct_missing,n_unique,var_type,suitable_outcome,suitable_grouping,grouping_excluded_reason,min,max,mean,median,sd,iqr,measurement_level,sample_values
+Timestamp,319,0,0.0,318,datetime,False,False,datetime variable,,,,,,,,
+Do you agree to participate in this anonymous survey?,319,0,0.0,1,constant,False,False,constant â€” no variation,,,,,,,,
+What is your age?,319,0,0.0,10,continuous_numeric,True,False,,19.0,28.0,21.83385579937304,22.0,1.84134415403699,3.0,interval/ratio (continuous),
+Gender,319,0,0.0,2,binary_categorical,False,True,,,,,,,,nominal (binary),"['Male', 'Female']"
+Which department are you currently studying in?,319,0,0.0,44,free_text,False,False,44 unique values > 30 â€” free-text,,,,,,,,"['Department of BBA', 'Department of Computer Science and Engineering (CSE)', 'Department of Law and Justice', 'Department of Electrical & Electronics Engineering (EEE)', 'Department of Textile Engineering']"
+Total number of family members living in your household (including yourself):,319,0,0.0,7,continuous_numeric,True,False,,2.0,10.0,4.545454545454546,4.0,1.1670137521769632,1.0,interval/ratio (continuous),
+How many members of your family earn an income?,319,0,0.0,5,discrete_numeric,True,True,,0.0,4.0,1.6426332288401253,1.0,0.7423830998498595,1.0,interval/ratio (discrete),
+What is your family's approximate total monthly income from all sources?,319,0,0.0,5,nominal_categorical,False,True,,,,,,,,nominal,"['30,000 – 60,000 BDT', '60,001 – 1,00,000 BDT', '1,00,001 – 1,50,000 BDT', 'Less than 30,000 BDT', 'More than 1,50,000 BDT']"
+What is your personal monthly expenditure? (Pocket money + Earnings),319,0,0.0,5,nominal_categorical,False,True,,,,,,,,nominal,"['12,001 – 20,000 BDT', '5,001 – 8,000 BDT', 'Less than 5,000 BDT', '8,001 – 12,000 BDT', 'More than 20,000 BDT']"
+From which area do you start your journey?,319,0,0.0,107,free_text,False,False,107 unique values > 30 â€” free-text,,,,,,,,"['Agargaon', 'Dhanmondi', 'Paltan', 'Mohammadpur', 'Mirpur 14']"
+What is your destination?,319,0,0.0,16,nominal_categorical,False,False,16 unique categories â€” too many for grouping,,,,,,,,"['BUBT', 'Bubt', 'bubt', 'Mirpur', 'Dhanmondi-32, Pranthapath Road']"
+What is the primary purpose of this trip?,319,0,0.0,3,nominal_categorical,False,False,smallest group n=1 < 5,,,,,,,,"['Education (Classes/Exam)', 'Work / Job', 'Personal Business']"
+What is your PRIMARY mode of transport?,319,0,0.0,4,nominal_categorical,False,True,,,,,,,,nominal,"['Public Bus', 'MRT (Metro Rail)', 'Personal Motorcycle', 'Ridesharing (Uber/Pathao)']"
+How do you get from your home to the first Station or Bus Stop?,319,4,1.25,3,nominal_categorical,False,True,,,,,,,,nominal,"['Walk', 'Rickshaw', 'Auto / Leguna']"
+"What is your total ""Access Time"" Time needed to reach the Station/Stop in Minutes ?",319,0,0.0,31,datetime,False,False,datetime variable,,,,,,,,
+"What is yout total ""In-Vehicle Time"" Time spent inside the main bus/train/car in Minutes?",319,0,0.0,76,datetime,False,False,datetime variable,,,,,,,,
+What is the TOTAL One-Way Cost of this trip?,319,0,0.0,41,continuous_numeric,True,False,,15.0,400.0,92.4576802507837,70.0,74.30938170713158,50.0,interval/ratio (continuous),
+How crowded is the vehicle usually?,319,0,0.0,5,likert_ordinal,True,False,,1.0,5.0,2.9059561128526648,3.0,1.5430700055710431,3.0,ordinal,
+"If the fare of your current primary mode INCREASED by 10% (e.g., +5-10 Taka), would you switch to a different mode?",319,0,0.0,2,binary_categorical,False,True,,,,,,,,nominal (binary),"['Yes', 'No']"
+Imagine the MRT/Bus is so crowded that you MUST stand the entire way every day. Would you switch to a different bus that guarantees a SEAT but takes 15 minutes longer?,319,0,0.0,2,binary_categorical,False,True,,,,,,,,nominal (binary),"['Yes', 'No']"
+"""Premium Bus"" service (AC + Guaranteed Seat) was available but cost DOUBLE your current fare, would you take it?",319,0,0.0,2,binary_categorical,False,True,,,,,,,,nominal (binary),"['No', 'Yes']"
+"If your current mode arrived 10 minutes LATE three times a week, would you switch to a more reliable option?",319,0,0.0,2,datetime,False,False,datetime variable,,,,,,,,
+How reliable is your current mode? (Does it arrive on time?),319,0,0.0,5,datetime,False,False,datetime variable,,,,,,,,
+"How would you rate the physical comfort (Seating space, AC, Noise) of your current mode?",319,0,0.0,5,likert_ordinal,True,False,,1.0,5.0,3.1128526645768027,3.0,1.1627571117243356,2.0,ordinal,
+How safe do you feel regarding road accidents on this mode?,319,0,0.0,5,likert_ordinal,True,False,,1.0,5.0,3.1630094043887147,3.0,1.331197398018001,2.0,ordinal,
+"How safe do you feel regarding harassment, pickpocketing, or personal security?",319,0,0.0,5,likert_ordinal,True,False,,1.0,5.0,3.413793103448276,3.0,1.2226624602278429,1.0,ordinal,
+"If your current primary mode was unavailable, what would be your second choice?",319,0,0.0,8,nominal_categorical,False,False,smallest group n=1 < 5,,,,,,,,"['Public Bus', 'MRT (Metro Rail)', 'Ridesharing Bike (Uber/Pathao)', 'Rickshaw / Auto-Rickshaw', 'Bicycle']"
+"If it is raining heavily, how does your travel choice change?",319,0,0.0,4,nominal_categorical,False,True,,,,,,,,nominal,"['Wait', 'Switch Mode', 'No Change', 'Cancel Trip']"
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",319,0,0.0,5,nominal_categorical,False,True,,,,,,,,nominal,"['I do not travel', 'I use the MRT (If available)', 'I use my Personal Bike/Bicycle', 'I use a Rickshaw', 'I walk']"
+"If a dedicated BUBT Student Bus was introduced in your area with a strict daily schedule (e.g., leaves exactly at 7:30 AM and returns exactly at 4:00 PM), would you switch to it from your current mode?",319,0,0.0,2,binary_categorical,False,True,,,,,,,,nominal (binary),"['Yes', 'No']"

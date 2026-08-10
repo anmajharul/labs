@@ -1,0 +1,5 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+What is your PRIMARY mode of transport?,MRT (Metro Rail),How crowded is the vehicle usually?,96,3.4792,3.0,1.1048,1.0,5.0,3.0,4.0,1.0,-0.3288,-0.4461
+What is your PRIMARY mode of transport?,Personal Motorcycle,How crowded is the vehicle usually?,62,1.5,1.0,1.2772,1.0,5.0,1.0,1.0,0.0,2.2931,3.5219
+What is your PRIMARY mode of transport?,Public Bus,How crowded is the vehicle usually?,120,3.5833,4.0,1.4117,1.0,5.0,2.0,5.0,3.0,-0.6283,-0.971
+What is your PRIMARY mode of transport?,Ridesharing (Uber/Pathao),How crowded is the vehicle usually?,41,1.7073,2.0,0.9551,1.0,5.0,1.0,2.0,1.0,2.0835,5.3421

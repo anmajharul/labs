@@ -1,0 +1,5 @@
+Variable,N,H (uncorr),C,H (corr),df,p-value,eta^2,Interpretation
+One-Way Cost (BDT),319,96.9425,0.990111,97.9107,3,0.000000,0.3013,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"
+Access Time (min),319,168.4450,0.993555,169.5376,3,0.000000,0.5287,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"
+In-Vehicle Time (min),319,110.7823,0.998679,110.9288,3,0.000000,0.3426,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"
+Total Travel Time (min),319,73.2652,0.999178,73.3255,3,0.000000,0.2233,"Large  (η² ≥ 0.14; Tomczak & Tomczak, 2014)"

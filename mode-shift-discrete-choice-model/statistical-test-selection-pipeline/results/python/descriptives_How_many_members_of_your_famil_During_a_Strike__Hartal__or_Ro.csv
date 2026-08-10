@@ -1,0 +1,6 @@
+Grouping,Group,Outcome,N,Mean,Median,SD,Min,Max,Q1,Q3,IQR,Skewness,Kurtosis
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I do not travel,How many members of your family earn an income?,101,1.6139,1.0,0.7344,1.0,3.0,1.0,2.0,1.0,0.7546,-0.7654
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use a Rickshaw,How many members of your family earn an income?,47,1.8723,2.0,0.7694,1.0,3.0,1.0,2.0,1.0,0.2257,-1.2531
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use my Personal Bike/Bicycle,How many members of your family earn an income?,59,1.6271,2.0,0.6923,1.0,3.0,1.0,2.0,1.0,0.6537,-0.681
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I use the MRT (If available),How many members of your family earn an income?,90,1.5667,1.0,0.6878,0.0,3.0,1.0,2.0,1.0,0.6023,-0.4205
+"During a Strike (Hartal) or Road Blockade, how do you usually travel?",I walk,How many members of your family earn an income?,22,1.6364,1.0,1.0022,1.0,4.0,1.0,2.0,1.0,1.4606,1.026

@@ -1,0 +1,12 @@
+name: kruskal_wallis_analysis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - openpyxl
+  - pip
